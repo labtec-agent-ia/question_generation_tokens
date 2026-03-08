@@ -1,4 +1,4 @@
-# Question Generation using 🤗transformers
+# Question Generation using 🤗transformers to tokens. OwnerOn.
 
 - [Question Generation using 🤗transformers](#question-generation-using-transformers)
   - [Project Details](#project-details)
@@ -350,3 +350,10 @@ nlg-eval --hypothesis=hypothesis_t5-base-qg-hl.txt --references=data/references.
 - https://arxiv.org/abs/1906.05416
 - https://www.aclweb.org/anthology/D19-5821/
 - https://arxiv.org/abs/2005.01107v1
+
+- ## Implementation of my account details
+- labtec@altmails.com
+- ControlOnbOard sempre inovando para limpar quem suja.
+- BAAS Server's Service's LLC.
+
+- ## Obrigado! 🫂 🫂 
